@@ -28,30 +28,30 @@ Without this data, budget decisions were guesswork and high-value customer segme
 
 ---
 
+## Dashboard
+
+<img width="1173" height="658" alt="image" src="https://github.com/user-attachments/assets/87a417a3-a568-4c50-a35b-cf121077eab3" />
+
+```
+
 ## 📁 Repository Structure
 
 ```
 customer-journey-funnel-analysis-dashboard/
 │
 ├── data/
-│   └── CustomerJourneyData.csv          ← 150-row dataset, 20 columns
+│   └── dataset.csv          ← 150-row dataset, 20 columns
 │
 ├── dashboard/
-│   └── CustomerJourneyFunnelDashboard.pbit  ← Power BI Template file
+│   └── Customer Journey & Funnel Analysis Dashboard.pbix  ← Power BI file
+│   └── CJ_Excel_Analysis.xlsx                             ← Excel analysis workbook
+|
 │
-├── excel/
-│   └── CJ_Excel_Analysis.xlsx           ← 9-sheet Excel analysis workbook
-│
-├── documentation/
-│   ├── CustomerJourney_FunnelAnalysis_Project.docx  ← Full project document
-│   └── CJ_Recommendations_Report.docx   ← Business recommendations report
+├── reports/
+│   └── CJ & FA_Recommendations_Report.pdf   ← Business recommendations report
 │
 ├── screenshots/
-│   ├── 01_KPI_Overview.png
-│   ├── 02_Funnel_Analysis.png
-│   ├── 03_Channel_Performance.png
-│   ├── 04_Segment_Analysis.png
-│   └── 05_Retention_Dashboard.png
+│   ├── dashboard.png
 │
 └── README.md
 ```
@@ -219,41 +219,13 @@ The `CJ_Excel_Analysis.xlsx` file contains 9 sheets mirroring a professional bus
 
 ---
 
-## 🔧 How to Use This Project
-
-### Step 1 — Load the Dataset
-1. Open Power BI Desktop
-2. Click **Home → Get Data → Text/CSV**
-3. Select `CustomerJourneyData.csv`
-4. Click **Transform Data** and verify column types
-5. Click **Close & Apply**
-
-### Step 2 — Open the Template
-1. Open `CustomerJourneyFunnelDashboard.pbit`
-2. When prompted, point to `CustomerJourneyData.csv`
-3. All DAX measures and report layout will load automatically
-
-### Step 3 — Explore the Dashboard
-- Use slicers to filter by Channel, Segment, Region, Date, and Funnel Stage
-- Cross-filter visuals by clicking any chart element
-- Hover over bars and cards for detailed tooltips
-
-### Step 4 — Explore the Excel Workbook
-- Open `CJ_Excel_Analysis.xlsx` in Microsoft Excel
-- Navigate sheets using the colour-coded tab bar
-- All data is pre-computed — no setup required
-
----
-
 ## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
 | Microsoft Power BI Desktop | Dashboard development and DAX measure creation |
 | DAX (Data Analysis Expressions) | KPI calculations and funnel metrics |
-| Power Query (M Language) | Data loading, type casting, and transformation |
 | Microsoft Excel (openpyxl) | Multi-sheet analysis workbook |
-| Python (openpyxl library) | Excel workbook generation and formatting |
 | CSV | Raw dataset format |
 
 ---
@@ -273,31 +245,3 @@ The `CJ_Excel_Analysis.xlsx` file contains 9 sheets mirroring a professional bus
 
 ---
 
-## 💼 Resume Bullet Points
-
-**One-liner:**
-> Built Power BI Customer Journey & Funnel Analysis Dashboard | 150 customer interactions | 20+ DAX KPIs | Identified 63% checkout abandonment | Delivered 8 business recommendations
-
-**Full version:**
-> Designed and built an end-to-end Customer Journey & Funnel Analysis Dashboard in Microsoft Power BI. Analysed a 150-row customer interaction dataset across 20 dimensions including acquisition channels, funnel stages, demographics, and purchase behaviour. Created 20+ DAX measures, a 5-stage conversion funnel, a 9-sheet Excel analysis workbook, and a formal Recommendations Report — identifying a 63% checkout abandonment rate and recommending targeted interventions estimated to improve conversion rates by 15–20%.
-
----
-
-## 🙋 About This Project
-
-This project was created as a portfolio piece demonstrating end-to-end Business Analyst skills — from data collection and cleaning through to visualisation, insight generation, and business recommendations.
-
-**Prepared by:** Debarati
-**Date:** June 2026
-**Domain:** Marketing Analytics, E-Commerce, Customer Experience
-**Level:** Beginner to Intermediate
-
----
-
-## 📬 Connect
-
-If you found this project helpful, feel free to ⭐ star the repository and connect on LinkedIn!
-
----
-
-*Built with 💙 using Power BI, DAX, Excel, and Python*
