@@ -1,0 +1,151 @@
+Customer ID,Customer Name,Customer Segment,Age Group,Region,Acquisition Channel,Campaign Name,Website Visit Date,Page Views,Product Viewed,Add to Cart,Checkout Started,Purchase Completed,Purchase Value,Session Duration,Bounce Status,Customer Feedback Score,Customer Retention Status,Funnel Stage,Conversion Status
+CUST0001,Rahul Kumar,Premium,35-44,South,Paid Search,Retargeting Campaign,2024-02-22,18,Smart Watch,Yes,Yes,Yes,12016.71,604,No,4,Retained,Purchase,Converted
+CUST0002,Rupal Malhotra,Enterprise,25-34,West,Referral,Newsletter March,2024-01-04,6,Camera Kit,Yes,Yes,No,0,134,No,1,Churned,Intent,Not Converted
+CUST0003,Naveen Kumar,Basic,35-44,Central,Social Media,Summer Sale 2024,2024-08-23,18,Smart Watch,No,No,No,0,417,No,1,Churned,Interest,Not Converted
+CUST0004,Preeti Verma,SMB,35-44,Central,Paid Search,Product Launch Q1,2024-01-24,8,Smartphone X,No,No,No,0,268,No,7,Churned,Interest,Not Converted
+CUST0005,Karan Mishra,Basic,45-54,East,Paid Search,Google Ads Q2,2024-06-30,7,Smartphone X,No,No,No,0,729,No,6,Churned,Interest,Not Converted
+CUST0006,Vikram Dubey,Standard,55+,South,Paid Search,Festive Offer,2024-07-13,9,Home Speaker,Yes,Yes,No,0,264,No,7,Retained,Intent,Not Converted
+CUST0007,Rohit Agarwal,Enterprise,35-44,North,Paid Search,New User Promo,2024-06-10,7,Smart TV,Yes,No,No,0,499,No,2,Churned,Consideration,Not Converted
+CUST0008,Arun Mehta,Standard,55+,Central,Social Media,New User Promo,2024-08-07,19,Camera Kit,Yes,No,No,0,171,No,5,Churned,Consideration,Not Converted
+CUST0009,Neha Singh,Premium,18-24,South,Direct,Retargeting Campaign,2024-12-14,14,Fitness Band,Yes,Yes,No,0,287,No,5,Churned,Intent,Not Converted
+CUST0010,Aarav Kumar,SMB,35-44,East,Organic Search,Newsletter March,2024-08-10,6,Smart TV,Yes,No,No,0,766,No,3,Churned,Consideration,Not Converted
+CUST0011,Gopal Gupta,SMB,18-24,East,Display Ad,Loyalty Program,2024-11-07,7,Wireless Earbuds,Yes,Yes,No,0,30,No,5,Churned,Intent,Not Converted
+CUST0012,Sanjay Reddy,Premium,18-24,East,Display Ad,Newsletter March,2024-05-02,2,Gaming Console,No,No,No,0,110,No,1,Churned,Awareness,Not Converted
+CUST0013,Sachin Reddy,Premium,55+,South,Paid Search,Festive Offer,2024-10-08,6,Smartphone X,Yes,No,No,0,246,No,5,Churned,Consideration,Not Converted
+CUST0014,Kapil Joshi,Basic,45-54,East,Email Campaign,Loyalty Program,2024-08-19,4,Gaming Console,Yes,Yes,No,0,632,No,2,Retained,Intent,Not Converted
+CUST0015,Aarav Singh,Premium,25-34,North,Organic Search,Google Ads Q2,2024-02-06,17,Gaming Console,Yes,Yes,Yes,36305.95,278,No,8,Churned,Purchase,Converted
+CUST0016,Harish Joshi,Premium,18-24,West,Social Media,Facebook Campaign,2024-07-29,15,Laptop Pro,Yes,No,No,0,130,No,1,Churned,Consideration,Not Converted
+CUST0017,Pallavi Agarwal,Premium,25-34,South,Paid Search,Loyalty Program,2024-08-17,5,Camera Kit,Yes,Yes,No,0,483,No,7,Retained,Intent,Not Converted
+CUST0018,Preeti Kumar,Premium,55+,North,Organic Search,Brand Awareness,2024-03-26,14,Smart TV,Yes,No,No,0,90,No,2,Churned,Consideration,Not Converted
+CUST0019,Naveen Sharma,Enterprise,35-44,West,Social Media,Facebook Campaign,2024-12-22,18,Smart TV,Yes,Yes,No,0,783,No,5,Churned,Intent,Not Converted
+CUST0020,Sneha Agarwal,Premium,18-24,Central,Email Campaign,Loyalty Program,2024-09-28,6,Laptop Pro,No,No,No,0,112,No,7,Churned,Interest,Not Converted
+CUST0021,Meera Singh,SMB,18-24,South,Email Campaign,Product Launch Q1,2024-10-18,8,Fitness Band,No,No,No,0,664,No,1,Churned,Interest,Not Converted
+CUST0022,Harish Kapoor,SMB,55+,East,Social Media,Brand Awareness,2024-12-08,11,Gaming Console,Yes,Yes,No,0,353,No,7,Churned,Intent,Not Converted
+CUST0023,Vikram Sharma,Enterprise,55+,Central,Organic Search,Product Launch Q1,2024-10-02,7,Home Speaker,Yes,No,No,0,100,No,2,Churned,Consideration,Not Converted
+CUST0024,Shruti Verma,Standard,45-54,Central,Direct,Newsletter March,2024-11-09,17,Laptop Pro,No,No,No,0,597,No,3,Churned,Interest,Not Converted
+CUST0025,Nikhil Kumar,Standard,35-44,North,Organic Search,Loyalty Program,2024-03-20,9,Smartphone X,No,No,No,0,764,No,3,Churned,Interest,Not Converted
+CUST0026,Kavya Nair,SMB,45-54,East,Display Ad,Summer Sale 2024,2024-02-17,14,Smartphone X,Yes,Yes,Yes,49000.0,789,No,8,Retained,Purchase,Converted
+CUST0027,Preeti Trivedi,SMB,18-24,North,Organic Search,Retargeting Campaign,2024-10-06,2,Tablet Plus,No,No,No,0,181,No,4,Churned,Awareness,Not Converted
+CUST0028,Amit Patel,Basic,35-44,North,Social Media,Brand Awareness,2024-12-15,8,Smart Watch,Yes,No,No,0,446,No,5,Churned,Consideration,Not Converted
+CUST0029,Ekta Mehta,Standard,25-34,South,Email Campaign,Summer Sale 2024,2024-04-01,11,Camera Kit,No,No,No,0,782,No,7,Churned,Interest,Not Converted
+CUST0030,Nisha Nair,Standard,18-24,West,Display Ad,Summer Sale 2024,2024-08-28,8,Gaming Console,No,No,No,0,501,No,3,Churned,Interest,Not Converted
+CUST0031,Ritu Rao,Standard,18-24,South,Email Campaign,Google Ads Q2,2024-05-22,3,Smartphone X,Yes,No,No,0,725,No,7,Churned,Consideration,Not Converted
+CUST0032,Kunal Agarwal,Premium,18-24,East,Paid Search,New User Promo,2024-05-15,2,Smart Watch,Yes,Yes,No,0,650,No,5,Churned,Intent,Not Converted
+CUST0033,Divya Mishra,SMB,25-34,East,Organic Search,Facebook Campaign,2024-01-01,17,Home Speaker,No,No,No,0,789,No,6,Churned,Interest,Not Converted
+CUST0034,Nikhil Joshi,Basic,45-54,North,Direct,Google Ads Q2,2024-11-15,11,Smart Watch,No,No,No,0,337,No,5,Churned,Interest,Not Converted
+CUST0035,Ritu Trivedi,Basic,45-54,East,Referral,Retargeting Campaign,2024-04-08,14,Camera Kit,No,No,No,0,208,No,5,Churned,Interest,Not Converted
+CUST0036,Akash Verma,Enterprise,55+,North,Social Media,Newsletter March,2024-04-17,14,Fitness Band,No,No,No,0,359,No,4,Churned,Interest,Not Converted
+CUST0037,Ravi Bose,Standard,55+,West,Display Ad,Retargeting Campaign,2024-12-03,3,Smartphone X,Yes,No,No,0,373,No,1,Churned,Consideration,Not Converted
+CUST0038,Kapil Rao,Basic,25-34,South,Paid Search,Summer Sale 2024,2024-01-24,8,Smart TV,No,No,No,0,816,No,1,Churned,Interest,Not Converted
+CUST0039,Sunita Trivedi,SMB,25-34,West,Email Campaign,Facebook Campaign,2024-05-04,5,Laptop Pro,No,No,No,0,818,No,1,Churned,Interest,Not Converted
+CUST0040,Vandana Trivedi,Standard,25-34,Central,Email Campaign,Summer Sale 2024,2024-10-12,8,Smart Watch,Yes,No,No,0,713,No,5,Churned,Consideration,Not Converted
+CUST0041,Preeti Dubey,Basic,45-54,Central,Display Ad,Loyalty Program,2024-08-06,18,Smart TV,No,No,No,0,791,No,7,Churned,Interest,Not Converted
+CUST0042,Arjun Bose,Basic,25-34,East,Display Ad,Loyalty Program,2024-09-05,8,Smartphone X,Yes,No,No,0,270,No,3,Churned,Consideration,Not Converted
+CUST0043,Anjali Agarwal,SMB,18-24,South,Paid Search,Brand Awareness,2024-07-15,5,Gaming Console,Yes,Yes,No,0,93,No,2,Churned,Intent,Not Converted
+CUST0044,Harish Mishra,SMB,18-24,Central,Email Campaign,Festive Offer,2024-01-04,12,Smartphone X,No,No,No,0,885,No,4,Churned,Interest,Not Converted
+CUST0045,Kunal Malhotra,SMB,25-34,West,Paid Search,Newsletter March,2024-08-11,16,Laptop Pro,Yes,No,No,0,847,No,4,Churned,Consideration,Not Converted
+CUST0046,Sachin Gupta,Enterprise,25-34,Central,Referral,Summer Sale 2024,2024-07-20,19,Fitness Band,No,No,No,0,115,No,6,Churned,Interest,Not Converted
+CUST0047,Shweta Mehta,Enterprise,25-34,North,Social Media,Facebook Campaign,2024-06-16,7,Smart TV,Yes,No,No,0,418,No,3,Churned,Consideration,Not Converted
+CUST0048,Kapil Trivedi,Basic,18-24,West,Organic Search,Loyalty Program,2024-01-27,12,Gaming Console,No,No,No,0,829,No,6,Churned,Interest,Not Converted
+CUST0049,Rohit Sharma,Standard,25-34,North,Referral,Retargeting Campaign,2024-05-02,5,Smart TV,No,No,No,0,607,No,2,Churned,Interest,Not Converted
+CUST0050,Sunita Nair,Basic,25-34,Central,Referral,Product Launch Q1,2024-03-24,10,Smart Watch,No,No,No,0,349,No,5,Churned,Interest,Not Converted
+CUST0051,Bhavna Mishra,Enterprise,25-34,North,Referral,Brand Awareness,2024-02-22,10,Fitness Band,No,No,No,0,845,No,5,Churned,Interest,Not Converted
+CUST0052,Rohit Chauhan,SMB,45-54,East,Organic Search,Loyalty Program,2024-11-27,11,Laptop Pro,No,No,No,0,872,No,4,Churned,Interest,Not Converted
+CUST0053,Karan Trivedi,Basic,45-54,South,Email Campaign,Retargeting Campaign,2024-09-24,9,Fitness Band,No,No,No,0,581,No,7,Churned,Interest,Not Converted
+CUST0054,Arjun Bose,Enterprise,55+,East,Social Media,Brand Awareness,2024-02-14,9,Smart TV,Yes,No,No,0,654,No,6,Churned,Consideration,Not Converted
+CUST0055,Naveen Agarwal,Premium,45-54,East,Paid Search,Festive Offer,2024-04-18,12,Smartphone X,Yes,No,No,0,748,No,3,Churned,Consideration,Not Converted
+CUST0056,Preeti Sharma,SMB,25-34,North,Paid Search,Facebook Campaign,2024-09-07,18,Gaming Console,No,No,No,0,691,No,6,Churned,Interest,Not Converted
+CUST0057,Neha Bose,Premium,18-24,East,Paid Search,Facebook Campaign,2024-12-20,8,Smartphone X,Yes,Yes,No,0,465,No,6,Churned,Intent,Not Converted
+CUST0058,Preeti Agarwal,Basic,45-54,East,Social Media,Newsletter March,2024-04-28,4,Gaming Console,Yes,No,No,0,810,No,6,Churned,Consideration,Not Converted
+CUST0059,Meera Joshi,Standard,45-54,East,Direct,New User Promo,2024-09-25,20,Smartphone X,No,No,No,0,882,No,2,Churned,Interest,Not Converted
+CUST0060,Deepak Rao,Basic,25-34,East,Organic Search,Loyalty Program,2024-03-05,9,Laptop Pro,No,No,No,0,596,No,3,Churned,Interest,Not Converted
+CUST0061,Yogesh Mehta,Enterprise,18-24,North,Referral,Newsletter March,2024-08-28,16,Smart TV,Yes,No,No,0,288,No,7,Churned,Consideration,Not Converted
+CUST0062,Arjun Kumar,Premium,45-54,West,Organic Search,New User Promo,2024-11-18,2,Wireless Earbuds,Yes,Yes,Yes,49698.95,601,No,7,Retained,Purchase,Converted
+CUST0063,Sameer Dubey,SMB,25-34,Central,Email Campaign,Festive Offer,2024-08-14,10,Fitness Band,No,No,No,0,342,No,5,Churned,Interest,Not Converted
+CUST0064,Jasmine Patel,SMB,18-24,South,Direct,Brand Awareness,2024-05-15,3,Wireless Earbuds,Yes,No,No,0,190,No,1,Churned,Consideration,Not Converted
+CUST0065,Harish Bose,SMB,45-54,East,Organic Search,Brand Awareness,2024-05-27,10,Smart TV,Yes,Yes,Yes,39666.76,465,No,2,Retained,Purchase,Converted
+CUST0066,Kunal Rao,Standard,35-44,South,Organic Search,Summer Sale 2024,2024-03-25,10,Fitness Band,No,No,No,0,612,No,3,Churned,Interest,Not Converted
+CUST0067,Ravi Kumar,Enterprise,35-44,West,Social Media,Loyalty Program,2024-10-03,16,Smart TV,Yes,Yes,No,0,648,No,3,Churned,Intent,Not Converted
+CUST0068,Priya Singh,Standard,55+,Central,Organic Search,Newsletter March,2024-10-22,2,Wireless Earbuds,Yes,No,No,0,314,No,2,Churned,Consideration,Not Converted
+CUST0069,Madhuri Trivedi,Enterprise,18-24,West,Social Media,Facebook Campaign,2024-06-19,11,Smart Watch,No,No,No,0,367,No,4,Churned,Interest,Not Converted
+CUST0070,Yogesh Reddy,Basic,45-54,Central,Organic Search,Festive Offer,2024-02-15,11,Smartphone X,Yes,No,No,0,443,No,7,Churned,Consideration,Not Converted
+CUST0071,Gopal Sharma,SMB,45-54,West,Organic Search,Brand Awareness,2024-09-22,12,Fitness Band,No,No,No,0,670,No,4,Churned,Interest,Not Converted
+CUST0072,Kapil Patel,Standard,35-44,Central,Paid Search,Newsletter March,2024-08-12,16,Smart Watch,Yes,No,No,0,848,No,2,Churned,Consideration,Not Converted
+CUST0073,Rupal Gupta,Basic,55+,North,Referral,Facebook Campaign,2024-02-17,8,Smart Watch,Yes,Yes,No,0,763,No,3,Churned,Intent,Not Converted
+CUST0074,Gopal Nair,Enterprise,45-54,West,Paid Search,Festive Offer,2024-10-09,5,Camera Kit,Yes,No,No,0,794,No,2,Churned,Consideration,Not Converted
+CUST0075,Vikram Nair,Enterprise,35-44,Central,Social Media,Summer Sale 2024,2024-05-24,10,Fitness Band,No,No,No,0,705,No,4,Churned,Interest,Not Converted
+CUST0076,Pooja Bose,SMB,45-54,East,Social Media,Loyalty Program,2024-10-05,13,Smart TV,No,No,No,0,223,No,6,Churned,Interest,Not Converted
+CUST0077,Nisha Kapoor,Enterprise,25-34,West,Organic Search,Google Ads Q2,2024-08-30,13,Camera Kit,No,No,No,0,841,No,7,Churned,Interest,Not Converted
+CUST0078,Lakshmi Mehta,Enterprise,18-24,South,Referral,New User Promo,2024-06-18,4,Smart TV,Yes,No,No,0,45,No,6,Churned,Consideration,Not Converted
+CUST0079,Pooja Trivedi,Standard,18-24,West,Display Ad,Newsletter March,2024-06-22,20,Camera Kit,No,No,No,0,366,No,7,Churned,Interest,Not Converted
+CUST0080,Bhavna Malhotra,Enterprise,35-44,West,Display Ad,Loyalty Program,2024-01-19,20,Smart Watch,Yes,No,No,0,324,No,2,Churned,Consideration,Not Converted
+CUST0081,Ekta Singh,Enterprise,18-24,North,Email Campaign,Retargeting Campaign,2024-12-21,10,Laptop Pro,Yes,No,No,0,330,No,3,Churned,Consideration,Not Converted
+CUST0082,Shruti Trivedi,Standard,25-34,Central,Email Campaign,New User Promo,2024-12-15,6,Wireless Earbuds,Yes,No,No,0,421,No,5,Churned,Consideration,Not Converted
+CUST0083,Bhavna Rao,Enterprise,55+,South,Paid Search,Festive Offer,2024-11-22,9,Smart TV,Yes,Yes,No,0,723,No,5,Churned,Intent,Not Converted
+CUST0084,Rajesh Singh,Enterprise,35-44,Central,Social Media,Facebook Campaign,2024-12-19,9,Smart TV,No,No,No,0,233,No,4,Churned,Interest,Not Converted
+CUST0085,Arjun Kumar,Standard,45-54,Central,Social Media,New User Promo,2024-05-31,10,Laptop Pro,No,No,No,0,704,No,4,Churned,Interest,Not Converted
+CUST0086,Swati Sharma,SMB,18-24,Central,Direct,Festive Offer,2024-05-26,8,Fitness Band,No,No,No,0,254,No,6,Churned,Interest,Not Converted
+CUST0087,Suresh Dubey,Basic,25-34,North,Direct,Summer Sale 2024,2024-06-07,15,Laptop Pro,No,No,No,0,779,No,2,Churned,Interest,Not Converted
+CUST0088,Ananya Verma,Basic,45-54,South,Paid Search,Retargeting Campaign,2024-10-03,12,Home Speaker,Yes,Yes,Yes,45745.42,855,No,5,Churned,Purchase,Converted
+CUST0089,Ekta Agarwal,Premium,45-54,North,Paid Search,Brand Awareness,2024-12-12,13,Home Speaker,Yes,No,No,0,44,No,3,Churned,Consideration,Not Converted
+CUST0090,Kunal Kumar,Enterprise,35-44,East,Referral,Facebook Campaign,2024-11-22,12,Smart Watch,No,No,No,0,512,No,1,Churned,Interest,Not Converted
+CUST0091,Jasmine Malhotra,Basic,55+,South,Direct,Product Launch Q1,2024-11-21,15,Smartphone X,No,No,No,0,149,No,2,Churned,Interest,Not Converted
+CUST0092,Rohit Patel,Basic,45-54,North,Organic Search,Brand Awareness,2024-10-02,5,Camera Kit,Yes,No,No,0,790,No,6,Churned,Consideration,Not Converted
+CUST0093,Kunal Trivedi,SMB,25-34,West,Direct,Product Launch Q1,2024-09-07,20,Camera Kit,No,No,No,0,316,No,1,Churned,Interest,Not Converted
+CUST0094,Yogesh Chauhan,Standard,45-54,West,Paid Search,Google Ads Q2,2024-02-20,12,Home Speaker,No,No,No,0,690,No,3,Churned,Interest,Not Converted
+CUST0095,Sneha Mishra,Basic,25-34,North,Display Ad,Festive Offer,2024-02-16,7,Fitness Band,No,No,No,0,81,No,7,Churned,Interest,Not Converted
+CUST0096,Anjali Rao,Standard,55+,South,Organic Search,Loyalty Program,2024-04-16,19,Gaming Console,No,No,No,0,268,No,3,Churned,Interest,Not Converted
+CUST0097,Vandana Mehta,SMB,18-24,East,Display Ad,Retargeting Campaign,2024-03-07,18,Smartphone X,No,No,No,0,142,No,6,Churned,Interest,Not Converted
+CUST0098,Priya Mehta,Premium,35-44,South,Referral,Google Ads Q2,2024-01-09,6,Smartphone X,Yes,No,No,0,568,No,1,Churned,Consideration,Not Converted
+CUST0099,Ekta Singh,Enterprise,45-54,East,Referral,New User Promo,2024-02-25,15,Home Speaker,Yes,No,No,0,774,No,7,Churned,Consideration,Not Converted
+CUST0100,Nikhil Shah,Basic,45-54,North,Organic Search,Festive Offer,2024-07-24,14,Smart Watch,Yes,No,No,0,105,No,1,Churned,Consideration,Not Converted
+CUST0101,Sanjay Dubey,Standard,18-24,South,Social Media,New User Promo,2024-11-20,19,Home Speaker,No,No,No,0,420,No,5,Churned,Interest,Not Converted
+CUST0102,Tanya Verma,Enterprise,55+,Central,Email Campaign,Product Launch Q1,2024-12-25,4,Home Speaker,No,No,No,0,250,No,4,Churned,Interest,Not Converted
+CUST0103,Ravi Rao,Enterprise,35-44,West,Email Campaign,Facebook Campaign,2024-02-18,11,Camera Kit,Yes,Yes,No,0,515,No,1,Churned,Intent,Not Converted
+CUST0104,Ananya Singh,Premium,45-54,North,Direct,Google Ads Q2,2024-03-07,18,Laptop Pro,Yes,Yes,Yes,6550.45,711,No,7,Retained,Purchase,Converted
+CUST0105,Sachin Patel,Basic,55+,East,Social Media,Product Launch Q1,2024-10-22,17,Gaming Console,Yes,No,No,0,897,No,1,Churned,Consideration,Not Converted
+CUST0106,Vivek Malhotra,Basic,18-24,East,Referral,Brand Awareness,2024-08-07,18,Fitness Band,No,No,No,0,688,No,5,Churned,Interest,Not Converted
+CUST0107,Priya Dubey,Basic,18-24,South,Social Media,Newsletter March,2024-06-22,12,Laptop Pro,Yes,Yes,No,0,175,No,6,Retained,Intent,Not Converted
+CUST0108,Rahul Sharma,Premium,55+,South,Email Campaign,Facebook Campaign,2024-08-20,11,Wireless Earbuds,Yes,No,No,0,825,No,5,Churned,Consideration,Not Converted
+CUST0109,Sameer Singh,Premium,25-34,South,Display Ad,New User Promo,2024-01-26,3,Smartphone X,Yes,Yes,No,0,309,No,2,Churned,Intent,Not Converted
+CUST0110,Kapil Shah,Premium,35-44,West,Organic Search,Newsletter March,2024-12-13,19,Smart TV,Yes,Yes,Yes,49230.06,37,No,4,Retained,Purchase,Converted
+CUST0111,Ritu Joshi,Standard,35-44,East,Social Media,Product Launch Q1,2024-01-04,16,Camera Kit,Yes,Yes,No,0,602,No,7,Churned,Intent,Not Converted
+CUST0112,Nikhil Chauhan,Premium,45-54,North,Email Campaign,Summer Sale 2024,2024-08-23,3,Tablet Plus,Yes,Yes,No,0,326,No,1,Churned,Intent,Not Converted
+CUST0113,Pallavi Sharma,Basic,25-34,Central,Email Campaign,Google Ads Q2,2024-02-15,14,Smart Watch,Yes,No,No,0,566,No,1,Churned,Consideration,Not Converted
+CUST0114,Pallavi Verma,Basic,25-34,East,Display Ad,Retargeting Campaign,2024-02-09,17,Smart Watch,Yes,Yes,No,0,774,No,7,Churned,Intent,Not Converted
+CUST0115,Lakshmi Mehta,Standard,18-24,South,Social Media,Brand Awareness,2024-03-29,20,Wireless Earbuds,No,No,No,0,701,No,1,Churned,Interest,Not Converted
+CUST0116,Meera Reddy,Enterprise,55+,Central,Email Campaign,New User Promo,2024-11-25,20,Tablet Plus,No,No,No,0,672,No,3,Churned,Interest,Not Converted
+CUST0117,Pooja Bose,Premium,45-54,West,Direct,Newsletter March,2024-05-20,19,Laptop Pro,Yes,Yes,Yes,2361.56,881,No,5,Retained,Purchase,Converted
+CUST0118,Vikram Singh,SMB,55+,Central,Email Campaign,Festive Offer,2024-10-24,18,Laptop Pro,Yes,No,No,0,697,No,2,Churned,Consideration,Not Converted
+CUST0119,Sanjay Dubey,Enterprise,55+,South,Organic Search,Festive Offer,2024-02-22,11,Smart Watch,Yes,Yes,Yes,22169.03,566,No,9,Churned,Purchase,Converted
+CUST0120,Jasmine Gupta,Basic,35-44,East,Email Campaign,Facebook Campaign,2024-06-22,20,Laptop Pro,No,No,No,0,692,No,3,Churned,Interest,Not Converted
+CUST0121,Vikram Agarwal,Premium,55+,West,Social Media,Newsletter March,2024-12-02,20,Wireless Earbuds,Yes,Yes,Yes,17816.13,162,No,10,Churned,Purchase,Converted
+CUST0122,Rupal Singh,Basic,55+,West,Direct,Google Ads Q2,2024-03-06,17,Smart Watch,No,No,No,0,463,No,5,Churned,Interest,Not Converted
+CUST0123,Shruti Sharma,Basic,35-44,South,Paid Search,Google Ads Q2,2024-09-05,7,Gaming Console,No,No,No,0,188,No,1,Churned,Interest,Not Converted
+CUST0124,Deepak Kumar,SMB,55+,Central,Organic Search,Google Ads Q2,2024-11-12,5,Fitness Band,Yes,Yes,No,0,858,No,2,Churned,Intent,Not Converted
+CUST0125,Sachin Bose,Premium,45-54,East,Direct,Brand Awareness,2024-08-15,20,Smartphone X,No,No,No,0,832,No,4,Churned,Interest,Not Converted
+CUST0126,Manish Malhotra,Standard,35-44,West,Display Ad,Brand Awareness,2024-07-07,19,Smart TV,Yes,Yes,Yes,26609.26,866,No,4,Retained,Purchase,Converted
+CUST0127,Sameer Mehta,Basic,18-24,West,Display Ad,Google Ads Q2,2024-10-10,4,Home Speaker,No,No,No,0,321,No,1,Churned,Interest,Not Converted
+CUST0128,Kapil Gupta,Basic,45-54,Central,Paid Search,Facebook Campaign,2024-02-16,8,Smart TV,No,No,No,0,57,No,4,Churned,Interest,Not Converted
+CUST0129,Sneha Mishra,SMB,35-44,South,Email Campaign,Product Launch Q1,2024-07-10,8,Laptop Pro,Yes,Yes,No,0,840,No,2,Churned,Intent,Not Converted
+CUST0130,Amit Patel,Basic,45-54,South,Display Ad,Festive Offer,2024-08-17,20,Laptop Pro,No,No,No,0,49,No,3,Churned,Interest,Not Converted
+CUST0131,Kavya Mehta,SMB,55+,Central,Email Campaign,Product Launch Q1,2024-05-27,8,Smartphone X,Yes,Yes,No,0,498,No,1,Churned,Intent,Not Converted
+CUST0132,Divya Reddy,SMB,55+,North,Direct,Loyalty Program,2024-10-21,8,Wireless Earbuds,Yes,Yes,Yes,28747.85,710,No,2,Retained,Purchase,Converted
+CUST0133,Tanya Chauhan,Premium,55+,Central,Referral,Loyalty Program,2024-10-10,1,Camera Kit,No,No,No,0,74,No,6,Churned,Awareness,Not Converted
+CUST0134,Naveen Chauhan,Basic,18-24,East,Display Ad,Product Launch Q1,2024-06-25,8,Smart Watch,No,No,No,0,782,No,7,Churned,Interest,Not Converted
+CUST0135,Anjali Mehta,Premium,35-44,Central,Social Media,Retargeting Campaign,2024-12-16,15,Smart TV,Yes,No,No,0,94,No,6,Churned,Consideration,Not Converted
+CUST0136,Vandana Bose,Premium,35-44,South,Organic Search,Brand Awareness,2024-01-22,11,Smartphone X,Yes,No,No,0,586,No,4,Churned,Consideration,Not Converted
+CUST0137,Arun Patel,Standard,35-44,East,Display Ad,Summer Sale 2024,2024-12-01,11,Smartphone X,Yes,Yes,No,0,480,No,4,Churned,Intent,Not Converted
+CUST0138,Anjali Gupta,Enterprise,45-54,East,Display Ad,Loyalty Program,2024-05-16,3,Camera Kit,Yes,No,No,0,872,No,2,Churned,Consideration,Not Converted
+CUST0139,Kunal Verma,Basic,18-24,North,Social Media,Newsletter March,2024-06-05,15,Fitness Band,No,No,No,0,200,No,6,Churned,Interest,Not Converted
+CUST0140,Ravi Chauhan,Enterprise,18-24,East,Referral,Facebook Campaign,2024-05-20,2,Smart Watch,No,No,No,0,445,No,3,Churned,Awareness,Not Converted
+CUST0141,Gopal Gupta,Premium,25-34,Central,Direct,Festive Offer,2024-01-18,5,Smart Watch,Yes,No,No,0,400,No,4,Churned,Consideration,Not Converted
+CUST0142,Akash Patel,SMB,25-34,West,Social Media,Google Ads Q2,2024-08-15,3,Fitness Band,Yes,Yes,Yes,14295.14,56,No,3,Retained,Purchase,Converted
+CUST0143,Neha Shah,Enterprise,55+,North,Social Media,Newsletter March,2024-12-26,15,Gaming Console,No,No,No,0,322,No,6,Churned,Interest,Not Converted
+CUST0144,Neha Joshi,Premium,25-34,North,Email Campaign,Retargeting Campaign,2024-08-15,3,Tablet Plus,Yes,No,No,0,593,No,5,Churned,Consideration,Not Converted
+CUST0145,Deepak Verma,Standard,25-34,East,Referral,Brand Awareness,2024-03-03,7,Wireless Earbuds,Yes,No,No,0,399,No,5,Churned,Consideration,Not Converted
+CUST0146,Akash Chauhan,Enterprise,55+,South,Referral,Product Launch Q1,2024-02-03,10,Camera Kit,No,No,No,0,766,No,4,Churned,Interest,Not Converted
+CUST0147,Tanya Trivedi,Enterprise,55+,North,Paid Search,Google Ads Q2,2024-11-24,3,Smart TV,Yes,No,No,0,161,No,7,Churned,Consideration,Not Converted
+CUST0148,Vandana Malhotra,SMB,25-34,South,Email Campaign,Loyalty Program,2024-01-29,4,Home Speaker,Yes,Yes,Yes,35611.94,561,No,5,Retained,Purchase,Converted
+CUST0149,Ananya Nair,Standard,55+,East,Paid Search,Newsletter March,2024-11-10,18,Smart Watch,Yes,Yes,No,0,205,No,6,Retained,Intent,Not Converted
+CUST0150,Jasmine Dubey,Basic,55+,North,Display Ad,Summer Sale 2024,2024-02-11,2,Fitness Band,Yes,Yes,No,0,684,No,1,Churned,Intent,Not Converted
